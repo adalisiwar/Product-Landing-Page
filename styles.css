@@ -288,27 +288,34 @@ nav > ul {
 }
 
 footer {
-  margin-top: 30px;
-  background-color: #ddd;
+    margin-top: 30px;
+    background-color: #ddd;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 footer > ul {
-  display: flex;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 footer > ul > li {
-  padding: 20px;
-  text-align: center;
-  align-items: center;
-  text-align: center;
+    padding: 20px;
+    text-align: center;
 }
 
 footer > span {
-  margin-top: 10px;
-  display: flex;
-  justify-content: center;
-  font-size: 0.20em;
-  color: #444;
-  align-items: center;
-  text-align: center;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9em;
+    color: #444;
 }
+
