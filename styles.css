@@ -1,4 +1,4 @@
-/** global element styling **/
+/** global element styling **/         
 
 @import 'https://fonts.googleapis.com/css?family=Lato:400,700';
 
@@ -6,6 +6,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 
 body {
@@ -278,7 +279,7 @@ nav > ul {
   #pricing {
     flex-direction: column;
   }
-  .product {
+.product {
     max-width: 300px;
     width: 100%;
     margin: 0 auto;
@@ -300,13 +301,14 @@ footer > ul {
 footer > ul > li {
   padding: 0 10px;
   text-align: center;
+  align-items: center;
 }
 
 footer > span {
   margin-top: 5px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   font-size: 0.9em;
   color: #444;
-  text-align: center;
+  align-items: center;
 }
