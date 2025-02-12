@@ -26,7 +26,15 @@ This landing page meets the following **FreeCodeCamp user stories**:
 
 ## 🛠 Technologies Used  
 - **HTML** - Structure  
-- **CSS** - Styling & Layout  
+- **CSS** - Styling & Layout
+
+---
+## 👩‍💻 Author  
+Made with ❤️ by **[Adali Siwar](https://github.com/adalisiwar)**  
+
+If you like this project, ⭐ star the repo and feel free to contribute! 🚀
+
+
   
 
 
