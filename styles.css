@@ -299,6 +299,7 @@ footer > ul {
 
 footer > ul > li {
   padding: 0 10px;
+  text-align: center;
 }
 
 footer > span {
@@ -307,4 +308,5 @@ footer > span {
   justify-content: flex-end;
   font-size: 0.9em;
   color: #444;
+  text-align: center;
 }
