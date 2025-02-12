@@ -32,7 +32,7 @@ a {
   background-color: rgb(255, 255, 255);
   overflow: hidden;
 }
-/*
+
 @media only screen and (max-width:600px){
 #nav-bar ul {
   display: flex;
@@ -45,7 +45,7 @@ a {
 #nav-bar ul li a {
   color: #333;
   font-size: 1.2rem;
-}     } */
+}     } 
 
 /* UTILITY CLASSES */
 #container {
