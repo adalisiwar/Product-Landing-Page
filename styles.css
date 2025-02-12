@@ -290,12 +290,10 @@ nav > ul {
 footer {
   margin-top: 30px;
   background-color: #ddd;
-  padding: 20px;
 }
 
 footer > ul {
   display: flex;
-  justify-content: flex-end;
 }
 
 footer > ul > li {
@@ -309,7 +307,7 @@ footer > span {
   margin-top: 10px;
   display: flex;
   justify-content: center;
-  font-size: 0.10em;
+  font-size: 0.20em;
   color: #444;
   align-items: center;
   text-align: center;
