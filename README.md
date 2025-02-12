@@ -9,7 +9,7 @@ The project showcases a **responsive landing page** using HTML and CSS.
 ---
 
 ## 🎥 Live Demo  
-🔗 [Click here to view the live demo](https://adalisiwar.github.io/landing-page/)  
+🔗 [Click here to view the live demo](https://adalisiwar.github.io/Product-Landing-Page/)
 
 ---
 
